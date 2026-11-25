@@ -17,5 +17,5 @@ npx expo start
 "@
 
 git add README.md
-git commit -m "Document features and setup in README"
+git commit -m "Update README"
 git push
